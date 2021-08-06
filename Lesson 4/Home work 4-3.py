@@ -1,0 +1,1 @@
+print([u for u in range(20, 241) if u % 20 ==0 or u% 21 == 0])
